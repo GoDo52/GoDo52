@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @GoDo52 - Biotechnology student from Ukraine. 
-- 👀 I’m interested in: Data Structures, Databases, OOP, and I guess programming and it's math in general)
-- 🌱 I’m currently learning Python, and then planning to move onto C++ or C language.
-- 📫 How to reach me @Xeon_noeX - Telegram, or txrushclash@gmail.com
+- 👋 Hi, I’m @GoDo52
+- 👀 I’m interested in: Data Structures, Databases, OOP, and I guess programming and its' math in general)
+- 📫 How to reach me @alex_crip - Telegram, or txrushclash@gmail.com
 
 I'm creating GitHub for tracking my progress as I move through immense world of programming. 
 Maybe you will find something interesting for yourself there in the future. 
